@@ -1,2 +1,2 @@
-# SDC360_4.4PA
-SDC360 Performance Assessment: Updating an entry. Final part of the CRUD operations. 
+# SDC360_4.3GP
+SDC360 Guided Practice 4.3: CRUD Application - Deleting
